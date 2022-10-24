@@ -10,7 +10,7 @@ int main()
         {
             printf("1");
         }
-
+    //hakfhsdjkfhdskaf
         printf("\n");
     }
 
